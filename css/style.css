@@ -1,0 +1,9 @@
+#list {
+  list-style: none;
+}
+
+.ms-txt {
+    font-size: 18px;
+    font-weight: 700;
+    color: red;
+}
